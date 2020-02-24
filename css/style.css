@@ -1,0 +1,22 @@
+.tituloprron{
+	color: white;
+	font-family: Helvetica;
+}
+.presentacion{
+	color: white;
+	font-family: Helvetica;
+	background: #81c784;
+}
+
+.caja1{
+	/*En esta caja todos los márgenes son distintos*/
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+
+.titulos{
+	background: #80d8ff;
+	color: white;
+}
